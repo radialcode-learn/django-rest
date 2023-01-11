@@ -1,3 +1,4 @@
 static_collected
 .venv
 **/__pycache__
+.vscode
